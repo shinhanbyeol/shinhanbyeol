@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=shinhanbyeol&theme=default&show_icons=true"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=shinhanbyeol&theme=default"/>
+
 <!--
 **shinhanbyeol/shinhanbyeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
